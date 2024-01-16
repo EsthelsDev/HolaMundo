@@ -1,0 +1,14 @@
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\bin\Debug\net8.0\HolaMundo.exe
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\bin\Debug\net8.0\HolaMundo.deps.json
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\bin\Debug\net8.0\HolaMundo.runtimeconfig.json
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\bin\Debug\net8.0\HolaMundo.dll
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\bin\Debug\net8.0\HolaMundo.pdb
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfoInputs.cache
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.AssemblyInfo.cs
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.csproj.CoreCompileInputs.cache
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.dll
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\refint\HolaMundo.dll
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.pdb
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\HolaMundo.genruntimeconfig.cache
+D:\Personal\Descargas\AREAS\APRENDIZAJE\PROGRAMACIÓN\.NET\PRACTICA_EJERCICIOS\Hola_mundo\HolaMundo\obj\Debug\net8.0\ref\HolaMundo.dll
